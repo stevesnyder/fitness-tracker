@@ -1,5 +1,7 @@
 # Fitness Tracker
 
+https://user-images.githubusercontent.com/74982034/121105096-65815880-c7d1-11eb-973e-3cec12f2533e.mp4
+
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
@@ -13,11 +15,7 @@
   ## About the Project
 
   Application that can be used save and manage workouts.
-
-  ### Link to deployed page
-
   
-
   ## Important Commands
 
   ### To install dependencies: 
